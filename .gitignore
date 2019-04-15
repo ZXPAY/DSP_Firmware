@@ -15,3 +15,7 @@
 *.exe
 *.o
 *.a
+*.bin
+*.asv
+*.ipch
+*.vsdx
